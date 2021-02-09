@@ -2,7 +2,7 @@
 
 In this project, it is implemented from scratch, using Bootstrap v4.4.1, a web page.
 
-Here are the Figma links to see the finalt result of the three different web page's sections on desktop, tablet, and mobile version
+Here are the Figma links to see the finalt result of the three different web page's sections (homepage, pricing, and courses) on desktop, tablet, and mobile version
 
 -   [Homepage](https://www.figma.com/file/bj82pkIeQisNkrEZM2a0Cw/SmileSchool-Homepage)
 -   [Pricing](https://www.figma.com/file/ACpRBiYZhhYRyEpx90nWwc/SmileSchool-Pricing)
