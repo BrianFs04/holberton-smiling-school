@@ -16,17 +16,9 @@ To have a correct view of the site it is necessary to download the following fon
 
 This project was tested on the folowing responsive sizes (Homepage):
 
-**Laptop L - 1440px**
-
-![Laptop](https://i.ibb.co/pyLGcGy/01-SMILESCHOOL-LANDING-desktop-2x.png)
-
-**Tablet - 768px**
-
-![Tablet](https://i.ibb.co/D9nySTr/01-SMILESCHOOL-LANDING-tablet-2x.png)
-
-**Mobile M - 375px**
-
-![Mobile](https://i.ibb.co/5W58Rf8/01-SMILESCHOOL-LANDING-mobile-2x.png)
+-   **Laptop L - 1440px**
+-   **Tablet - 768px**
+-   **Mobile M - 375px**
 
 # Web-page
 
